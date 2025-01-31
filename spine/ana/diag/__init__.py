@@ -3,7 +3,7 @@
 This submodule is use to run basic diagnostics analyses such as:
 - Track dE/dx profile
 - Track energy reconstruction
-- Track Completeness
+- Track completeness
 - Shower start dE/dx
 - ...
 '''
